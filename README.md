@@ -5,9 +5,20 @@
 * git reset --hard Head
 3. git commit -m "remove all from main"
 
-* git branch (list of all branches)
+* git branch 
+    - (list of all branches)
+    <br/>
+
 * git checkout `< Branch - Name >`
-* git branch -D `< Branch - Name >` 
-    * (for deleting a branch) 
-    * but you must present in another branch & run this cmd
+    - (going to that specific  branches)
+    <br/>
+
+* git branch -D `< Branch - Name >`
+    - (for deleting a branch) 
+    - but you must present in another branch & run this cmd 
+    <br/>
+
+* git branch -m `< New Branch - Name >`  
+    - (for the branch renaming)
+    <br/>
 
