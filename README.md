@@ -20,4 +20,4 @@ content: [
 ],
 ```
 
-<img src="./demo.gif" />
+<img src="./demo.gif" style="width: 100%; height: 100%;"/>
